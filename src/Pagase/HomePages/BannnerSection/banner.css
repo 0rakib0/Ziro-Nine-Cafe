@@ -2,13 +2,19 @@
     background-image: url('../../../../public/bg-image.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
     position: relative;
 }
 
-.overly{
+
+.banner-bg::before{
+    content: '';
     position: absolute;
+    top: 0;
+    left: 0;
     height: 100%;
     width: 100%;
-    background: #080d1994;
+    background: #0F172B;
+    opacity: 0.6;
+    z-index: 1;
 }
+
