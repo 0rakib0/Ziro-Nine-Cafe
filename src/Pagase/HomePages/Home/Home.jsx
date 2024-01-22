@@ -1,7 +1,10 @@
+import Banner from "../BannnerSection/Banner"
+
 const Home = () =>{
     return (
         <div>
-            <h1 className="bg-secondarycolor font-pacifico">This is home page here</h1>
+            {/* Banner section start */}
+            <Banner></Banner>
         </div>
     )
 }

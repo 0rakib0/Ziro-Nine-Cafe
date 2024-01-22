@@ -1,0 +1,14 @@
+.banner-bg{
+    background-image: url('../../../../public/bg-image.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+.overly{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background: #080d1994;
+}

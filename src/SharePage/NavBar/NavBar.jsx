@@ -12,11 +12,11 @@ const NavBar = () => {
 
     return (
         <div className="bg-primaryColor py-4">
-            <div className="flex justify-between w-11/12 mx-auto items-center">
+            <div className="md:flex justify-between w-11/12 mx-auto items-center">
                 <div>
                     <h4 className="text-4xl font-semibold text-white">LOGO</h4>
                 </div>
-                <div className="flex gap-8 items-center">
+                <div className="md:flex gap-8 items-center">
                     <div className="flex list-none gap-4 font-semibold text-white">
                         {NavItems}
                     </div>
