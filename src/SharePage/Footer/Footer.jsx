@@ -1,7 +1,12 @@
+import { NavLink } from "react-router-dom"
+
 const Footer = () =>{
+
+    
+
     return (
         <div>
-            <h1>Footer Section Here...</h1>
+           <h1>Footer Section</h1>
         </div>
     )
 }
