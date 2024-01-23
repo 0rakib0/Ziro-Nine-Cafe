@@ -1,0 +1,29 @@
+.overlydesign::after{
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 4rem;
+    background-color: #FEA116;
+    top: 1rem;
+    left: 7rem;
+}
+
+.overlydesign::before{
+    content: '';
+    position: absolute;
+    height: 3px;
+    width: 4rem;
+    background-color: #FEA116;
+    top: 1rem;
+    right: 7rem;
+}
+ 
+@media (max-width: 767px) {
+    /* Apply this style for small screens (up to 767px) */
+    .overlydesign::after {
+      left: 5rem;
+    }
+    .overlydesign::before{
+        right: 5rem;
+    }
+  }
