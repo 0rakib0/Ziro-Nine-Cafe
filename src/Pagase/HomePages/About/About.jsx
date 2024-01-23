@@ -29,10 +29,10 @@ const About = () => {
                     </div>
                 </div>
             </div>
-            <div className='lg:w-6/12 mt-24'>
+            <div className='lg:w-6/12 md:mt-6 mt-24'>
                 <div className='relative'>
                     <h4 className='font-pacifico text-secondarycolor text-2xl font-semibold'>About Us</h4>
-                    <div className='absolute w-[3rem] h-[3px] bg-secondarycolor top-[18px] left-[7rem]'>
+                    <div className='absolute w-[3rem] h-[3px] bg-secondarycolor top-[18px] left-[8rem]'>
                     </div>
                 </div>
                 <h4 className='flex items-center gap-2 text-2xl md:text-4xl my-4 font-semibold'>Welcome to <span><FaUtensils className="text-secondarycolor" /></span> Restoran</h4>
