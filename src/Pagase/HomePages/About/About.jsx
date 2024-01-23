@@ -6,36 +6,36 @@ import image4 from '../../../../public/about-4.jpg'
 
 const About = () => {
     return (
-        <div className="mt-24 w-11/12 mx-auto flex gap-6">
-            <div className='flex gap-4 w-6/12'>
+        <div className="mt-24 w-11/12 mx-auto lg:flex gap-6">
+            <div className='flex md:justify-center gap-4 lg:w-6/12'>
                 <div>
                     <div>
                         <div>
-                            <img src={image1} className='w-[15rem]' alt="" />
+                            <img src={image1} className='md:w-[15rem] w-[12rem]' alt="" />
                         </div>
-                        <div className='w-[13rem] ml-8 mt-4'>
+                        <div className='md:w-[13rem] w-[10rem] ml-8 mt-4'>
                             <img src={image2} alt="" />
                         </div>
                     </div>
                 </div>
                 <div>
                     <div>
-                        <div className='w-[13rem] mt-8 pb-4'>
+                        <div className='md:w-[13rem] w-[10rem] mt-8 pb-4'>
                             <img src={image3} alt="" />
                         </div>
-                        <div className='w-[15rem]'>
+                        <div className='md:w-[15rem] w-[12rem]'>
                             <img src={image4} alt="" />
                         </div>
                     </div>
                 </div>
             </div>
-            <div className='w-6/12 mt-4'>
+            <div className='lg:w-6/12 mt-24'>
                 <div className='relative'>
                     <h4 className='font-pacifico text-secondarycolor text-2xl font-semibold'>About Us</h4>
                     <div className='absolute w-[3rem] h-[3px] bg-secondarycolor top-[18px] left-[7rem]'>
                     </div>
                 </div>
-                <h4 className='flex items-center gap-2 text-4xl my-4 font-semibold'>Welcome to <span><FaUtensils className="text-secondarycolor" /></span> Restoran</h4>
+                <h4 className='flex items-center gap-2 text-2xl md:text-4xl my-4 font-semibold'>Welcome to <span><FaUtensils className="text-secondarycolor" /></span> Restoran</h4>
                 <p className='mb-8'>Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos erat ipsum et lorem et sit, sed stet lorem sit.</p>
                 <p className='mb-8'>
                     Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet
