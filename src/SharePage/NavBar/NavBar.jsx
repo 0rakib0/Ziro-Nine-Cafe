@@ -11,8 +11,8 @@ const NavBar = () => {
     </>
 
     return (
-        <div className="bg-primaryColor py-4">
-            <div className="md:flex justify-between w-11/12 mx-auto items-center">
+        <div className="bg-primaryColor md:bg-transparent">
+            <div className="md:flex justify-between w-11/12 md:absolute top-0 left-16 py-4 z-20 items-center">
                 <div>
                     <h4 className="text-4xl font-semibold text-white">LOGO</h4>
                 </div>
