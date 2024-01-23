@@ -7,7 +7,7 @@ const Service = () => {
 
 
     return (
-        <div className="my-24 w-11/12 mx-auto">
+        <div className="mt-24 w-11/12 mx-auto">
             <div className="md:flex gap-6 space-y-4">
                 <div className="shadow-lg md:shadow-indigo-300/70 rakib p-4 ">
                     <FaUserTie className="text-6xl rakib2 text-secondarycolor" />
