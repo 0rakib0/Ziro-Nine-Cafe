@@ -6,7 +6,7 @@
 }
 
 
-.banner-bg::before{
+/* .banner-bg::before{
     content: '';
     position: absolute;
     top: 0;
@@ -16,5 +16,14 @@
     background: #0F172B;
     opacity: 0.6;
     z-index: 1;
+} */
+
+.overly{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: #0f172bb2;
 }
 
