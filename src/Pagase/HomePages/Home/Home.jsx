@@ -4,6 +4,7 @@ import BookingTable from "../BookingTable/BookingTbale"
 import FoodMenu from "../FooMenu/FoodMenu"
 import Offers from "../Offers/Offers"
 import Service from "../Service/Service"
+import Shepf from "../Shepf/Shepf"
 
 const Home = () =>{
     return (
@@ -20,6 +21,8 @@ const Home = () =>{
             <Offers></Offers>
             {/* Booking table section */}
             <BookingTable></BookingTable>
+            {/* Teams Secton */}
+            <Shepf></Shepf>
         </div>
     )
 }
