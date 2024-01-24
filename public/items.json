@@ -2,7 +2,7 @@
     {
         "_id": 1,
         "name": "Classic Pancakes",
-        "image": "pancakes.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Fluffy pancakes served with maple syrup and fresh berries.",
         "category": "Breakfast",
         "price": 9.99
@@ -10,7 +10,7 @@
     {
         "_id": 2,
         "name": "Avocado Toast",
-        "image": "avocado_toast.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Sliced avocado on whole-grain toast topped with poached eggs.",
         "category": "Breakfast",
         "price": 8.49
@@ -18,7 +18,7 @@
     {
         "_id": 3,
         "name": "French Toast",
-        "image": "french_toast.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Thick slices of bread soaked in a sweetened egg mixture, grilled to perfection.",
         "category": "Breakfast",
         "price": 7.99
@@ -26,7 +26,7 @@
     {
         "_id": 4,
         "name": "Egg and Cheese Bagel",
-        "image": "egg_cheese_bagel.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Toasted bagel with scrambled eggs and melted cheese.",
         "category": "Breakfast",
         "price": 6.99
@@ -34,7 +34,7 @@
     {
         "_id": 5,
         "name": "Vegetarian Omelette",
-        "image": "vegetarian_omelette.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "A fluffy omelette filled with assorted vegetables.",
         "category": "Breakfast",
         "price": 10.99
@@ -42,7 +42,7 @@
     {
         "_id": 6,
         "name": "Blueberry Muffins",
-        "image": "blueberry_muffins.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Moist and delicious muffins bursting with blueberries.",
         "category": "Breakfast",
         "price": 5.49
@@ -50,7 +50,7 @@
     {
         "_id": 7,
         "name": "Granola Parfait",
-        "image": "granola_parfait.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Layers of granola, yogurt, and fresh fruit for a healthy start.",
         "category": "Breakfast",
         "price": 9.99
@@ -58,7 +58,7 @@
     {
         "_id": 8,
         "name": "Bacon and Egg Sandwich",
-        "image": "bacon_egg_sandwich.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Toasted bread with crispy bacon, fried egg, and a touch of mayo.",
         "category": "Breakfast",
         "price": 8.99
@@ -66,7 +66,7 @@
     {
         "_id": 9,
         "name": "Belgian Waffles",
-        "image": "belgian_waffles.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Light and fluffy waffles served with whipped cream and strawberries.",
         "category": "Breakfast",
         "price": 11.49
@@ -74,7 +74,7 @@
     {
         "_id": 10,
         "name": "Breakfast Burrito",
-        "image": "breakfast_burrito.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "A hearty burrito filled with eggs, sausage, cheese, and salsa.",
         "category": "Breakfast",
         "price": 9.99
@@ -82,7 +82,7 @@
     {
         "_id": 11,
         "name": "Grilled Chicken Salad",
-        "image": "chicken_salad.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Fresh salad with grilled chicken, mixed greens, and balsamic vinaigrette.",
         "category": "Lunch",
         "price": 12.99
@@ -90,7 +90,7 @@
     {
         "_id": 12,
         "name": "Margherita Pizza",
-        "image": "margherita_pizza.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Classic pizza with tomato, mozzarella, and fresh basil.",
         "category": "Lunch",
         "price": 14.99
@@ -98,7 +98,7 @@
     {
         "_id": 13,
         "name": "Caesar Wrap",
-        "image": "caesar_wrap.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Grilled chicken, romaine lettuce, and Caesar dressing wrapped in a tortilla.",
         "category": "Lunch",
         "price": 10.99
@@ -106,7 +106,7 @@
     {
         "_id": 14,
         "name": "Vegetarian Quinoa Bowl",
-        "image": "vegetarian_quinoa_bowl.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Quinoa bowl with assorted vegetables and a zesty lemon tahini dressing.",
         "category": "Lunch",
         "price": 11.99
@@ -114,7 +114,7 @@
     {
         "_id": 15,
         "name": "Caprese Sandwich",
-        "image": "caprese_sandwich.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Tomato, mozzarella, and basil on ciabatta bread with balsamic glaze.",
         "category": "Lunch",
         "price": 9.99
@@ -122,7 +122,7 @@
     {
         "_id": 16,
         "name": "Shrimp Tacos",
-        "image": "shrimp_tacos.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Grilled shrimp tacos with cabbage slaw and chipotle mayo.",
         "category": "Lunch",
         "price": 13.49
@@ -130,7 +130,7 @@
     {
         "_id": 17,
         "name": "Chicken Quesadilla",
-        "image": "chicken_quesadilla.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Cheesy chicken quesadilla with salsa and sour cream.",
         "category": "Lunch",
         "price": 11.99
@@ -138,7 +138,7 @@
     {
         "_id": 18,
         "name": "Pesto Pasta Salad",
-        "image": "pesto_pasta_salad.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Cold pasta salad with cherry tomatoes, olives, and basil pesto.",
         "category": "Lunch",
         "price": 10.49
@@ -146,7 +146,7 @@
     {
         "_id": 19,
         "name": "BBQ Chicken Wrap",
-        "image": "bbq_chicken_wrap.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Grilled BBQ chicken, lettuce, and ranch dressing in a wrap.",
         "category": "Lunch",
         "price": 12.99
@@ -154,7 +154,7 @@
     {
         "_id": 20,
         "name": "Mushroom Risotto",
-        "image": "mushroom_risotto.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Creamy mushroom risotto with Parmesan cheese and fresh herbs.",
         "category": "Lunch",
         "price": 15.99
@@ -162,7 +162,7 @@
     {
         "_id": 21,
         "name": "Salmon with Lemon Dill Sauce",
-        "image": "salmon_dinner.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Grilled salmon fillet with a zesty lemon dill sauce, served with roasted vegetables.",
         "category": "Dinner",
         "price": 18.99
@@ -170,7 +170,7 @@
     {
         "_id": 22,
         "name": "Beef Tenderloin Steak",
-        "image": "steak_dinner.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Juicy beef tenderloin steak cooked to perfection, accompanied by mashed potatoes.",
         "category": "Dinner",
         "price": 24.99
@@ -178,7 +178,7 @@
     {
         "_id": 23,
         "name": "Chicken Alfredo Pasta",
-        "image": "chicken_alfredo.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Creamy Alfredo pasta with grilled chicken, mushrooms, and Parmesan cheese.",
         "category": "Dinner",
         "price": 16.99
@@ -186,7 +186,7 @@
     {
         "_id": 24,
         "name": "Vegetable Stir-Fry",
-        "image": "vegetable_stir_fry.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Colorful vegetable stir-fry with tofu and soy-ginger sauce.",
         "category": "Dinner",
         "price": 14.99
@@ -194,7 +194,7 @@
     {
         "_id": 25,
         "name": "Lobster Tail Dinner",
-        "image": "lobster_tail_dinner.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Butter-poached lobster tail served with drawn butter and lemon.",
         "category": "Dinner",
         "price": 32.99
@@ -202,7 +202,7 @@
     {
         "_id": 26,
         "name": "Rack of Lamb",
-        "image": "rack_of_lamb.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Herb-crusted rack of lamb with red wine reduction sauce.",
         "category": "Dinner",
         "price": 28.99
@@ -210,7 +210,7 @@
     {
         "_id": 27,
         "name": "Vegetarian Lasagna",
-        "image": "vegetarian_lasagna.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Layers of pasta, ricotta, marinara sauce, and assorted vegetables.",
         "category": "Dinner",
         "price": 17.99
@@ -218,7 +218,7 @@
     {
         "_id": 28,
         "name": "Seafood Paella",
-        "image": "seafood_paella.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Spanish-style paella with a mix of seafood, saffron, and rice.",
         "category": "Dinner",
         "price": 26.99
@@ -226,7 +226,7 @@
     {
         "_id": 29,
         "name": "Filet Mignon",
-        "image": "filet_mignon.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Tender filet mignon steak grilled to perfection, served with a red wine reduction.",
         "category": "Dinner",
         "price": 30.99
@@ -234,7 +234,7 @@
     {
         "_id": 30,
         "name": "Shrimp Scampi",
-        "image": "shrimp_scampi.jpg",
+        "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/avocado-on-toast-96e3158.jpg?resize=768,574",
         "description": "Garlic butter shrimp scampi served over linguine.",
         "category": "Dinner",
         "price": 22.99
