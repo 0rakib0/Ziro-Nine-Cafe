@@ -5,7 +5,7 @@
     width: 4rem;
     background-color: #FEA116;
     top: 1rem;
-    left: 8rem;
+    left: 7rem;
 }
 
 .overlydesign::before{
@@ -15,7 +15,7 @@
     width: 4rem;
     background-color: #FEA116;
     top: 1rem;
-    right: 8rem;
+    right: 7rem;
 }
  
 @media (max-width: 767px) {
