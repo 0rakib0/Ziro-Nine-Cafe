@@ -5,7 +5,7 @@ const ItemCard = ({item}) =>{
     return (
         <div className="bg-red-300 bg-opacity-25 p-4 rounded-lg relative">
             <div className="border-8 border-secondarycolor overflow-hidden -mt-14 -ml-8 w-32 h-32 rounded-full">
-                <img src={image} className="w-ll h-full" alt="Items Image" />
+                <img src={image} className="w-ll h-full transform transition-transform hover:scale-110 duration-300" alt="Items Image" />
             </div>
             <h4 className="text-xl font-bold mt-2">{name}</h4>
             <p className="my-2">{description}</p>
