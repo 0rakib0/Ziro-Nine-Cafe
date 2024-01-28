@@ -12,11 +12,13 @@ const FoodMenu = () =>{
         console.log(category)
         fetch('items.json')
         .then(res => res.json())
-        .then(data =>{
+        .then(data => {
             const filterData = data.filter(item => item.category === category )
             setItems(filterData)
         })
     }
+
+    console.log(items)
 
     useEffect(() =>{
         handleFetching('Breakfast')

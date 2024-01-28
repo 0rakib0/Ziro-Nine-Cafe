@@ -3,11 +3,11 @@ import { NavLink } from "react-router-dom"
 const NavBar = () => {
 
     const NavItems = <>
-        <li className="text-secondarycolor"><NavLink>HOME</NavLink></li>
-        <li className="hover:text-secondarycolor duration-200"><NavLink>ABOUT</NavLink></li>
-        <li className="hover:text-secondarycolor duration-200"><NavLink>SERVICE</NavLink></li>
-        <li className="hover:text-secondarycolor duration-200"><NavLink>MENU</NavLink></li>
-        <li className="hover:text-secondarycolor duration-200"><NavLink>CONTACT</NavLink></li>
+        <li className="text-secondarycolor"><NavLink to='/'>HOME</NavLink></li>
+        <li className="hover:text-secondarycolor duration-200"><NavLink to='/about-us/'>ABOUT</NavLink></li>
+        <li className="hover:text-secondarycolor duration-200"><NavLink to='/service/'>SERVICE</NavLink></li>
+        <li className="hover:text-secondarycolor duration-200"><NavLink to='/menu/'>MENU</NavLink></li>
+        <li className="hover:text-secondarycolor duration-200"><NavLink to='/contact/'>CONTACT</NavLink></li>
     </>
 
     return (
